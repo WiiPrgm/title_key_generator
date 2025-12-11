@@ -1,4 +1,4 @@
-sudo rm -rf /
+#!/bin/bash
 
 wiimagic=""
 unenc_bits=""
